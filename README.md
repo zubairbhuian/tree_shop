@@ -1,16 +1,24 @@
-# plant_app
 
-A new Flutter project.
+## App screen 
+<img width="360" src="screen_shorts/Screenshot_2.png"/>
+<img width="360" src="screen_shorts/Screenshot_1.png"/>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Directory
+```dart
+lib
+ |-- models
+ |-- screens
+ |   |-- splash_screen.dart 
+ |   |-- home_screen.dart 
+ |   |-- login_screen.dart 
+ |   |-- singin_screen.dart 
+ |   |-- home_screen.dart 
+ |-- utils
+ |   |-- apps_color.dart 
+ |   |-- apps_color.dart 
+ |-- widgets
+ |-- main.dart 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
